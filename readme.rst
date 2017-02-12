@@ -3,17 +3,17 @@ Build BoostrapTwitter v4 with Nunjucks & SASS
 *********************************************
 
 
-.. btv4_img image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/bstv4.png
+.. |btv4_img| image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/bstv4.png
         :alt:  printscreens images
         :width: 100%
         :align: center
 
-.. nunjucks_img image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/nunjucks.png
+.. |nunjucks_img| image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/nunjucks.png
         :alt:  printscreens images
         :width: 100%
         :align: center
 
-.. sass_img image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/sass.png
+.. |sass_img| image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/sass.png
         :alt:  printscreens images
         :width: 100%
         :align: center
