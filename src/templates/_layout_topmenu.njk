@@ -1,0 +1,88 @@
+{% extends '_layout.njk' %}
+{% block extra_css %}
+<style>
+   body{padding-top:4rem;}
+
+h4{
+    border-bottom:1px solid #555;
+    margin-top:2rem;
+    color:#888;
+}
+
+h6{
+    border-bottom:1px dashed #ccc;
+    margin-top:2rem;
+    color:#888;
+}
+
+
+.sidebar {
+  position: fixed;
+  top: 51px;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  padding: 20px;
+  overflow-x: hidden;
+  overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+  border-right: 1px solid #eee;
+}
+
+/* Sidebar navigation */
+.sidebar {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.sidebar .nav {
+  margin-bottom: 20px;
+}
+
+.sidebar .nav-item {
+  width: 100%;
+}
+
+.sidebar .nav-item + .nav-item {
+  margin-left: 0;
+}
+
+.sidebar .nav-link {
+  border-radius: 0;
+  padding-left: 5px;
+  color: #555;
+}
+
+</style>
+{% endblock extra_css %}
+
+{% block container %}
+<div class="container-fluid">
+<div class="row">
+    {% block side_menu %}
+        <nav class="col-sm-3 col-md-2 hidden-xs-down bg-faded sidebar">
+            <h6>Pages</h6>
+            <ul class="navbar-nav nav-pills flex-column">
+                <li class="nav-item"><a class="nav-link" href="sample_alerts.html">Alerts</a></li>
+                <li class="nav-item"><a class="nav-link" href="sample_badges.html">badges</a></li>
+                <li class="nav-item"><a class="nav-link" href="sample_breadcrumb.html">breadcrumb</a></li>
+                <li class="nav-item"><a class="nav-link" href="sample_buttons.html">Buttons</a></li>
+                <li class="nav-item"><a class="nav-link" href="sample_cards.html">cards</a></li>
+                <li class="nav-item"><a class="nav-link" href="sample_collapse_and_dropdown.html">collapse & dropdowns</a></li>
+                <li class="nav-item"><a class="nav-link" href="sample_forms.html">forms</a></li>
+                <li class="nav-item"><a class="nav-link" href="sample_badges.html">badges</a></li>
+
+            </ul>
+        </div>
+    {% endblock side_menu %}
+    <div class="col-sm-9 offset-sm-3 col-md-10 offset-md-2 pt-3">
+    {% block content %}
+      <h4>content </h4>
+    {% endblock content %}
+    </div>
+</div>
+</div>
+{% endblock container %}
+
+{% block footer %}
+{% include "_footer.njk" %}
+{% endblock footer %}

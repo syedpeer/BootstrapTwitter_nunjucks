@@ -1,0 +1,22 @@
+{
+  "name": "necto_bs4_theme",
+  "description": "Tema NECTO para Bootstrap Twitter 4",
+  "main": "index.js",
+  "authors": [
+    "Carlos Leite"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "jquery": "^3.1.1"
+  }
+}

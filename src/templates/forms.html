@@ -1,0 +1,63 @@
+{% extends "_layout.njk" %}
+{% block content %}
+   
+<div class="card card-block sameheight-item">
+   <div class="title-block">
+      <h3 class="title">
+         Default Bootstrap Inputs
+      </h3>
+   </div>
+   <form role="form">
+      <fieldset>
+         <caption>Campos com tamanhos staticos e iguais</caption>
+
+         <div class="form-row">
+
+            <div class="col">
+               <fieldset class="form-group">
+                  <label class="control-label" for="formGroupExampleInput">Input Text</label>
+                  <input type="text" class="form-control" id="formGroupExampleInput">
+               </fieldset>
+            </div>
+            <div class="col">
+               <fieldset class="form-group">
+                  <label class="control-label" for="formGroupExampleInput">Input Text</label>
+                  <input type="text" class="form-control" id="formGroupExampleInput">
+               </fieldset>
+            </div>
+            <div class="col">
+               <fieldset class="form-group">
+                  <label class="control-label" for="formGroupExampleInput">Input Text</label>
+                  <input type="text" class="form-control" id="formGroupExampleInput">
+               </fieldset>
+            </div>
+
+         </div>
+
+      </fieldset>
+
+      <fieldset>
+         <caption>Campos estaticos + campo dinamico</caption>
+
+         <div class="form-row">
+
+            <div class="col-md-3">
+               <fieldset class="form-group">
+                  <label class="control-label" for="formGroupExampleInput">Input md 3 </label>
+                  <input type="text" class="form-control" id="formGroupExampleInput">
+               </fieldset>
+            </div>
+            <div class="col-md-auto">
+               <fieldset class="form-group">
+                  <label class="control-label" for="formGroupExampleInput">Input AUTO</label>
+                  <input type="text" class="form-control" id="formGroupExampleInput">
+               </fieldset>
+            </div>
+
+         </div>
+
+      </fieldset>
+
+   </form>
+</div>
+{% endblock content %}
