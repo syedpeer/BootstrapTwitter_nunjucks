@@ -19,21 +19,11 @@ Build BoostrapTwitter v4 with Nunjucks & SASS
         :align: center
 
 
-
-
 +---------------------+----------------+--------------+
 | BootstrapTwitter v4 |.   NUNJUCKS.   | SASS         |
 +=====================+================+==============+
 |  |btv4_img|         | |nunjucks_img| |  |sass_img|  |
 +---------------------+----------------+--------------+
-
-
-+-------------+-----------------+-------------+
-| |btv4_img|  | |nunjucks_img|  | |sass_img|  |
-+-------------+-----------------+-------------+
-
-
- |btv4_img|   |nunjucks_img|  |sass_img|  |
 
 
 .. image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/printscreens/ps_all.png
