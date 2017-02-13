@@ -3,9 +3,11 @@ Build BoostrapTwitter v4 with Nunjucks & SASS
 *********************************************
 
 
-**The main goal, is to have a fast and easy way to check customizations on bootstrap Twitter.**
+**A fast and easy way to customize  Bootstrap Twitter and check results.**
 
-To do that, this project has some sample pages, samples taken from bootstrap twitter examples,  built with *nunjucks* and genrates two single files : a *css* and a *javascript* file with all **jquery** and **BootstrapTwitter** features.
+To do that, this project has some sample pages taken from bootstrap twitter examples.
+The pages were written using  *nunjucks*
+The Node app generates two single files:  a *css* and a *javascript* file with all **jquery** and **BootstrapTwitter** features.
 
 
 
@@ -23,6 +25,10 @@ To do that, this project has some sample pages, samples taken from bootstrap twi
         :align: center
 
 
+
+.. contents::
+
+
 Setup
 =====
 
@@ -38,16 +44,21 @@ then ...
 3. `bower install`
 
 
-Usage
+build
 =====
 
 Aftter install all the requirements (see *bower.jason* and *package.json* files )
 
-...  execute 
+...  execute
 ::
 
     $> gulp
 
+
+customize
+=========
+
+`add comments on how to customize and chek de results`
 
 
 .. _BOOTSTRAP TWITTER V4: https://v4-alpha.getbootstrap.com/
