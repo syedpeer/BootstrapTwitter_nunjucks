@@ -8,14 +8,18 @@ Build BoostrapTwitter v4 with Nunjucks & SASS
 To do that, this project has some sample pages, samples taken from bootstrap twitter examples,  built with *nunjucks* and genrates two single files : a *css* and a *javascript* file with all **jquery** and **BootstrapTwitter** features.
 
 
-=================================== =========================== ===================
-BootstrapTwitter v4                 NUNJUCKS                    SASS
-=================================== =========================== ===================
-|btv4_img| `Bootstrap Twitter V4`_  |nunjucks_img| `nunjucks`_  |sass_img| `SASS_
-=================================== =========================== ===================
++-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| bootstrapv4                                                                                                     | sass                                                                                                              | nunjucks                                                                                                      |
++=================================================================================================================+===================================================================================================================+===============================================================================================================+
+| .. img:https://raw.githubusercontent.com/cadu-leite/BootstrapTwitter_nunjucks/master/docs/imgs/logos/bst_v4.png | .. img:https://raw.githubusercontent.com/cadu-leite/BootstrapTwitter_nunjucks/master/docs/imgs/logos/nunjucks.png | .. img:https://raw.githubusercontent.com/cadu-leite/BootstrapTwitter_nunjucks/master/docs/imgs/logos/sass.png |
++-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
 
 
-|printscreen|
+
+.. image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/printscreens/ps_all.png
+        :alt:  printscreens images
+        :width: 100%
+        :align: center
 
 
 Setup
