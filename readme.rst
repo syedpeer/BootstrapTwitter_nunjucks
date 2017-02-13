@@ -11,7 +11,7 @@ To do that, this project has some sample pages, samples taken from bootstrap twi
 =================================== =========================== ===================
 BootstrapTwitter v4                 NUNJUCKS                    SASS
 =================================== =========================== ===================
-|btv4_img| `Bootstrap Twitter V4`_  |nunjucks_img| `nunjucks`_  |sass_img| `SASS`_
+|btv4_img| `Bootstrap Twitter V4`_  |nunjucks_img| `nunjucks`_  |sass_img| `SASS_
 =================================== =========================== ===================
 
 
@@ -50,7 +50,7 @@ Aftter install all the requirements (see *bower.jason* and *package.json* files 
 .. _SASS: http://sass-lang.com/guide
 
 
-.. |btv4_img| image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/bst_v4.png
+.. |btv4_img| image:: https://raw.githubusercontent.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/bst_v4.png
         :alt:  printscreens images
         :width: 100%
         :align: center
