@@ -11,7 +11,7 @@ To do that, this project has some sample pages, samples taken from bootstrap twi
 =================================== =========================== ===================
 BootstrapTwitter v4                 NUNJUCKS                    SASS
 =================================== =========================== ===================
-|btv4_img| `Bootstrap Twitter V4`_  |nunjucks_img| `nunjucks`_  |sass_img| 'SASS'_
+|btv4_img| `Bootstrap Twitter V4`_  |nunjucks_img| `nunjucks`_  |sass_img| `SASS`_
 =================================== =========================== ===================
 
 
