@@ -8,11 +8,11 @@ Build BoostrapTwitter v4 with Nunjucks & SASS
 To do that, this project has some sample pages, samples taken from bootstrap twitter examples,  built with *nunjucks* and genrates two single files : a *css* and a *javascript* file with all **jquery** and **BootstrapTwitter** features.
 
 
-+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
-| bootstrapv4                                                                                                     | sass                                                                                                              | nunjucks                                                                                                      |
-+=================================================================================================================+===================================================================================================================+===============================================================================================================+
-| .. img:https://raw.githubusercontent.com/cadu-leite/BootstrapTwitter_nunjucks/master/docs/imgs/logos/bst_v4.png | .. img:https://raw.githubusercontent.com/cadu-leite/BootstrapTwitter_nunjucks/master/docs/imgs/logos/nunjucks.png | .. img:https://raw.githubusercontent.com/cadu-leite/BootstrapTwitter_nunjucks/master/docs/imgs/logos/sass.png |
-+-----------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
++-------------+------------+----------------+
+| bootstrapv4 | sass       | nunjucks       |
++=============+============+================+
+| |btv4_img|  | |sass_img| | |nunjucks_img| |
++-------------+------------+----------------+
 
 
 
