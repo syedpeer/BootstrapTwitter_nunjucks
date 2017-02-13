@@ -10,7 +10,7 @@ To do that, this project has some sample pages, samples taken from bootstrap twi
 
 
 +-----------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
-| BOOTSTRAP TWITTER V4                                                                                      | SASS                                                                                                    | NUNJUCKS                                                                                                    |
+| `BOOTSTRAP TWITTER V4`_                                                                                   | `SASS`_                                                                                                 | `NUNJUCKS`_                                                                                                 |
 +===========================================================================================================+=========================================================================================================+=============================================================================================================+
 | .. image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/bst_v4.png | .. image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/sass.png | .. image:: https://github.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/nunjucks.png |
 +-----------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
@@ -50,9 +50,9 @@ Aftter install all the requirements (see *bower.jason* and *package.json* files 
 
 
 
-.. _Bootstrap Twitter V4: https://v4-alpha.getbootstrap.com/
-.. _Nunjucks: https://mozilla.github.io/nunjucks/
-.. _SASS: http://sass-lang.com/guide
+.. _BOOTSTRAP TWITTER V4: https://v4-alpha.getbootstrap.com/
+.. _SASS: https://mozilla.github.io/nunjucks/
+.. _NUNJUCKS: http://sass-lang.com/guide
 
 
 .. |btv4_img| image:: https://raw.githubusercontent.com/cadu-leite/BootstrapTwitter_nunjucks/blob/master/docs/imgs/logos/bst_v4.png
