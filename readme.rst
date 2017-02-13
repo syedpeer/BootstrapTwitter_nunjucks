@@ -8,6 +8,12 @@ Build BoostrapTwitter v4 with Nunjucks & SASS
 To do that, this project has some sample pages, samples taken from bootstrap twitter examples,  built with *nunjucks* and genrates two single files : a *css* and a *javascript* file with all **jquery** and **BootstrapTwitter** features.
 
 
+
+
+.. raw:: html
+
+   <hr width=50 size=10>
+
 +-------------+------------+----------------+
 | bootstrapv4 | sass       | nunjucks       |
 +=============+============+================+
